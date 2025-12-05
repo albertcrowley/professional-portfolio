@@ -1,17 +1,16 @@
-# Al Crowley - Speaker Portfolio
+# Al Crowley - Professional Portfolio
 
-Thank you for your interest! Below you'll find a list of my talks, including links to slides and video recordings where available.
+Thank you for your interest! Below you'll find a list of my presentations and postings, including links to slides and video recordings where available.
 
-## Recent Talks
 
-### 1. Surviving A High Stakes $40m Federal Live Code Challenge
+### Surviving A High Stakes $40m Federal Live Code Challenge
 * **Conference/Event:** DevOpsDays Philly 2025
-* **Date:** September 30, 2025
+* **Date:** September 2025
 * **Slides:** [View on Speaker Deck](https://speakerdeck.com/alcrowley/surviving-a-high-stakes-40m-federal-live-code-challenge)
 
-### 2. Lessons Learned from a Data Center Meltdown
+### Lessons Learned from a Data Center Meltdown
 * **Conference/Event:** DevOpsDays, Spring 2024
-* **Date:** May 2, 2024
+* **Date:** October 2017
 * **Slides:** [View on Speaker Deck](https://speakerdeck.com/alcrowley/lessons-learned-from-a-data-center-meltdown)
 * **Blog:** 
 
